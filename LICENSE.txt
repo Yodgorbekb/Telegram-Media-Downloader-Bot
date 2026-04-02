@@ -1,0 +1,11 @@
+
+---
+
+## ✅ What this gives you
+- A **professional GitHub project page** with clear features, installation steps, and usage instructions.  
+- Clients on Upwork will immediately see that it’s a **serious, modular, scalable bot**.  
+- `.env.example` ensures you don’t leak your real tokens.  
+
+---
+
+If you want, I can also draft a **short Upwork project description** (more marketing-style, less technical) so it looks attractive to non-technical clients. Would you like me to prepare that too?
